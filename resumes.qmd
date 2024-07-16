@@ -1,0 +1,15 @@
+---
+title: "class 7/15/24"
+author: "Nathan Koshy"
+format: html
+editor: visual
+execute: 
+  echo: false
+  message: false
+---
+
+## Resumes
+
+```{r}
+read.csv("resume.csv")
+```
